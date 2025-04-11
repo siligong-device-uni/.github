@@ -11,3 +11,11 @@ This is a location for us to share our projects to inspire, re-use, improve our 
 ## 🌈 Contribution guidelines
 
 Anybody can contribute to an existing project. For new projects we ask these be limited to members of Siligong Valley and ideally in the #home-networking-and-automation channel on Slack.
+
+When sharing a project please include as many details as you can to help others follow including:
+
+* Code or configuration
+* All of the required components etc
+* Any PCB design files
+* Any 3D printable models (preferably original CAD files along with usable STLs)
+* A readme covering any hint's tips, challenges
